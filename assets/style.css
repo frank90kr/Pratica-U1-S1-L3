@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #333333;
+  font-family: "Lora", serif;
+}
+
+#logo {
+  display: block;
+  margin-inline: auto;
+  width: 190px;
+  margin-top: 1rem;
+}
+
+nav {
+  background-color: #fefbf1;
+  color: #004d4d;
+  padding: 1rem 0;
+  font-size: smaller;
+  margin-bottom: 4rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.container {
+  text-align: center;
+  margin: auto;
+}
+
+.focaccia {
+  display: block;
+  margin-inline: auto;
+  border-radius: 10px;
+}
+
+#fonte {
+  display: block;
+  color: #999999;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.feature {
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.link {
+  color: #177;
+}
+
+#feat {
+  text-align: left;
+}
